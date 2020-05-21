@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+   Mohan Pulicheir mohan@gmail.com
 # THANKS
 
     <name>
