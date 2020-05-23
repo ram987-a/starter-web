@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-Master branch change
+Multiple file merge check - branch
+Master branch change - keep both
 Fixing prod issue. Stash changes applied
 
 ## Purpose
