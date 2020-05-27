@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+Find a way to contribute 
+
 ### Copyright
 
 Git.Training.
