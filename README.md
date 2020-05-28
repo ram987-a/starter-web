@@ -16,3 +16,6 @@ Find a way to contribute - after reabase ::::::
 
 Git.Training.
 New copyright added.
+
+
+local change WIP
