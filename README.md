@@ -18,4 +18,4 @@ Git.Training.
 New copyright added.
 
 
-change local to test rebase pull
+change local to test fetch - local WIP
