@@ -1,16 +1,2 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
-
-# TEAM
-
-   Mohan Pulicheir mohan@gmail.com
-# THANKS
- to all my students
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
-	
-	Please give some review
+remote local check
+this file is updated in master locally
