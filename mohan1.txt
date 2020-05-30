@@ -1,1 +1,1 @@
-stash branch test
+test git add -p
