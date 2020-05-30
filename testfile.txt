@@ -1,1 +1,3 @@
-history command check
+remote and local check 
+
+this file is modified in branch1
