@@ -1,7 +1,1 @@
-want to see same msg
-
-
-initial commit
-test git add -p
-
-modified at remote master branch
+test content1

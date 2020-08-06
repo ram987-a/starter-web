@@ -1,17 +1,1 @@
-want to see same msg
-
-accidental addition
-
-after initial commit
-dev 2 updated this file in branch2
-
-
-
-changes from branch1
-
-
-
-
-
-
-changes from master
+first msg
